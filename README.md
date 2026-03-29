@@ -132,7 +132,7 @@ https://chotbotlabo.net/dawan_customization_tools/
 ```
 MIT License
 
-Copyright (c) 2025 オトーワン☆Nakamura
+Copyright (c) 2025 オトーワン
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -154,7 +154,7 @@ SOFTWARE.
 ```
 
 ### キャラクター「だわん」
-著作権は作者（オトーワン☆Nakamura）に帰属します。
+著作権は作者（オトーワン）に帰属します。
 
 | 利用 | 可否 |
 |---|---|
@@ -178,13 +178,13 @@ SOFTWARE.
 - AI機能にはmiiboを使用しています。AIの挙動・データ取り扱いはmiiboの利用規約に準拠します。
 - APIキー・エージェントIDは利用者自身の責任で管理してください。
 - **`api_id.js` にAPIキー・エージェントIDを記載したままGitHubなどの公開リポジトリにアップロードすると、第三者にキーが盗まれ、無断利用・不正アクセス・意図しない課金が発生する危険があります。**
-- このような情報漏洩によって生じたいかなる損害・不利益についても、作者（オトーワン☆Nakamura）は一切の責任を負いません。公開前に必ず `api_id.js` が `.gitignore` に含まれていることを確認してください。
+- このような情報漏洩によって生じたいかなる損害・不利益についても、作者（オトーワン）は一切の責任を負いません。公開前に必ず `api_id.js` が `.gitignore` に含まれていることを確認してください。
 - 本プロジェクトに対するサポートは原則行いません。
 
 ---
 
 ## 制作者
 
-**オトーワン☆Nakamura**
+**オトーワン**
 X（Twitter）：[@otousan19](https://x.com/otousan19)
 note：[oto_wan_ai](https://note.com/oto_wan_ai)
