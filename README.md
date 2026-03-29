@@ -9,7 +9,7 @@
 
 ## デモ・関連リンク
 
-- **ランディングページ**：（URL）
+- **ランディングページ**：（準備中）
 - **カスタマイズツール**：https://chotbotlabo.net/dawan_customization_tools/
 - **AIエンジン（miibo）**：https://miibo.ai/
 - **制作者（X）**：https://x.com/otousan19
@@ -48,9 +48,9 @@
 ## フォルダ構成
 
 ```
-dawan/
-├── local/    # ローカル版（PC・家族内利用向け）
-├── vercel/   # Vercel版（インターネット公開向け）
+dawan_aiKit/
+├── dawan_local_ver※※/    # ローカル版（PC・家族内利用向け）
+├── dawan_vercle_ver※※/   # Vercel版（インターネット公開向け）
 └── README.md
 ```
 
