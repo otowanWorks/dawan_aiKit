@@ -130,6 +130,30 @@ https://chotbotlabo.net/dawan_customization_tools/
 ### ソースコード
 [MIT License](LICENSE) — 無償利用・商用利用・改変・再配布すべて可能です。
 
+```
+MIT License
+
+Copyright (c) 2025 オトーワン☆Nakamura
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
 ### キャラクター「だわん」
 著作権は作者（オトーワン☆Nakamura）に帰属します。
 
@@ -154,6 +178,8 @@ https://chotbotlabo.net/dawan_customization_tools/
 - だわんはエンターテインメント・雑談を目的としたAIフレームです。医療・カウンセリング・福祉の代替にはなりません。
 - AI機能にはmiiboを使用しています。AIの挙動・データ取り扱いはmiiboの利用規約に準拠します。
 - APIキー・エージェントIDは利用者自身の責任で管理してください。
+- **`api_id.js` にAPIキー・エージェントIDを記載したままGitHubなどの公開リポジトリにアップロードすると、第三者にキーが盗まれ、無断利用・不正アクセス・意図しない課金が発生する危険があります。**
+- このような情報漏洩によって生じたいかなる損害・不利益についても、作者（オトーワン☆Nakamura）は一切の責任を負いません。公開前に必ず `api_id.js` が `.gitignore` に含まれていることを確認してください。
 - 本プロジェクトに対するサポートは原則行いません。
 
 ---
