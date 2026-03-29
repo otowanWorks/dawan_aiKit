@@ -9,7 +9,7 @@
 
 ## デモ・関連リンク
 
-- **ランディングページ**：（準備中）
+- **ランディングページ**：https://chotbotlabo.net/dawan_ai/
 - **カスタマイズツール**：https://chotbotlabo.net/dawan_customization_tools/
 - **AIエンジン（miibo）**：https://miibo.ai/
 - **制作者（X）**：https://x.com/otousan19
