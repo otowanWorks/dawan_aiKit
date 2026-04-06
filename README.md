@@ -74,7 +74,7 @@ const MEBO_AGENT_ID  = "ここにエージェントIDを入力";
 
 1. このリポジトリをGitHubにフォーク（またはクローンして自分のリポジトリにプッシュ）
 2. [Vercel](https://vercel.com/) でプロジェクトをインポート
-3. **Root Directory** を `vercel/` に設定
+3. **Output Directory** を `.`（カンマ） に設定
 4. 環境変数を設定：
 
 | 変数名 | 値 |
